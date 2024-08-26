@@ -1,5 +1,5 @@
 {
-	"run_dir": "C:/Users/Gabriela Elise/Devlopment/Node/SandBox/replay_calc/run",
-	"output_render_dir": "C:/Users/Gabriela Elise/Desktop/dog",
+	"run_dir": "Insert the full path of the run directory that you created. Example: C:/user/desktop/replay_mod_concatenator/run",
+	"output_render_dir": "Insert the full path of the folder where Replay Mod will save the rendered videos. Example: C:/user/Desktop/replay_mod_renders",
 	"use_python_zip": false
 }
