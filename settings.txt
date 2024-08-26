@@ -1,0 +1,5 @@
+{
+	"run_dir": "C:/Users/Gabriela Elise/Devlopment/Node/SandBox/replay_calc/run",
+	"output_render_dir": "C:/Users/Gabriela Elise/Desktop/dog",
+	"use_python_zip": false
+}
